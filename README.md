@@ -4,4 +4,4 @@
 
 Install the dependencies (Express & Body-parser)
 
-See `img` folder.
+See `img Post` and `img Get`.
